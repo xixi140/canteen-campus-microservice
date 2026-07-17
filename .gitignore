@@ -1,0 +1,27 @@
+# 课程报告（不上传）
+第六章-系统实现.md
+课程报告-*.md
+课程设计报告.md
+
+# 构建产物
+target/
+*.class
+*.jar
+*.war
+
+# 前端依赖
+campus-frontend/node_modules/
+campus-frontend/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统日志
+*.log
+hs_err_*.log
+replay_*.log
+
+# Docker 数据
+docker-data/
