@@ -25,3 +25,7 @@ replay_*.log
 
 # Docker 数据
 docker-data/
+
+# 文档
+plantuml/
+课程报告章节安排分析与设计方案.docx
